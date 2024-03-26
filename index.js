@@ -1,1 +1,1 @@
-console.log('submodule a');
+console.log('submodule a -- modified');
